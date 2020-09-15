@@ -1,9 +1,11 @@
 # Task-Manager
 
 Description of Program:
+
 Task Manager is a user friendly, simple program that helps you assign tasks to yourself or to co workers in your business environment
 
 Features:
+
 Security Protected:
 Login with Username & Password.
 
